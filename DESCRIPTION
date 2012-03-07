@@ -1,0 +1,8 @@
+Package: LPutils
+Type: Package
+Title: General utility functions of Ludo Pagie
+Version: 0.0.1
+Date: 2012-03-02
+Authors@R: c(person("ludo","pagie",role=c('aut','cre'),email='ludo.pagie@gmail.com'))
+Description: General utility functions of Ludo Pagie
+License: GPL-2
